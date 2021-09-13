@@ -1,0 +1,20 @@
+body{
+    color:white;
+    background-image: linear-gradient(to top, rgb(63, 60, 60) , rgb(78, 71, 116));
+    text-align:center;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px dashed grey;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_members , #result_member_name , #result_member_accuracy{
+   color: white;
+   font-size: 20px;
+   font-family: monospace;
+}
